@@ -14,7 +14,7 @@
 - Chess
 - reading comic books
 - online games
-# My favrite food
+# My favorite food
 - hamburger
 - pizza
 - milkshake
