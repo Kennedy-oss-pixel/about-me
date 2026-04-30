@@ -9,3 +9,8 @@
 - finish all my tasks
 - arrange my room 
 - play basketball
+# My hobbies
+- Basketball
+- Chess
+- reading comic books
+- online games
